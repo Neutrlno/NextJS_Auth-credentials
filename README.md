@@ -1,2 +1,2 @@
 # NextJS_Auth-credentials
-Basic NextJS app with credentials authentication
+Basic [NextJS](https://nextjs.org/) app with credentials authentication
